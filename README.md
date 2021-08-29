@@ -1,2 +1,3 @@
 # hello-world
-its a simple hello world repository 
+its a simple hello world repository
+it is my first repository where github guide is teaching me how to make commits and all other stuffs .....
